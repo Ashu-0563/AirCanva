@@ -1,4 +1,3 @@
 # AirCanva
-This is my first git repository.
-<br>
-Author-Ashutosh Singh.
+This project includes hand gesture driven functioning of media
+
